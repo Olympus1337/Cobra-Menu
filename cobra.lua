@@ -1,5 +1,5 @@
 --[[
-    Fixed Cobra Menu by Absolute (ElConde)
+    Fixed Cobra Menu by <Olympus>
 ]]
 
 local a = 0.4
